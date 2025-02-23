@@ -2,7 +2,7 @@
 
 🌍 I have a strong passion for Air Quality, Remote Sensing, and Machine Learning.
 
-🎓 I recently graduated with a degree in Environmental Engineering from Istanbul Technical University (ITU).
+🎓 I recently graduated with a degree in Environmental Engineering from Istanbul Technical University.
 
 📚 Currently, I’m pursuing my master’s in Environmental Science, Engineering, and Management at ITU.
 
